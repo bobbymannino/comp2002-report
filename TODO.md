@@ -1,5 +1,7 @@
 # TODO
 
 - [x] Normalise inputs
-- [ ] Check scoring knn is actually correct
-- [ ] In SVM, does all kernals have a degree value or just polynomial
+- [x] Check scoring knn is actually correct
+- [x] In SVM, does all kernals have a degree value or just polynomial
+
+shoutout @finlayandersonplym for spotting these mistakes
